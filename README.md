@@ -4,6 +4,14 @@ This is a minimalist planner app. Make your plans, add them to the list and mark
 ## Preview
 ![Preview](image.png)
 
+## How to use
+You can add a new todo to the list by clicking on the button "New Todo". There you can enter your todo, mark it as important and add a comment. 
+
+Then you can filter your todos by choosing options on the right.
+
+You can also edit, mark comleted or delete any of your todos.
+
+To make it more customizable, you are able to edit a username or a quote, and it will also be saved.
 
 ## Project setup
 ```
