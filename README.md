@@ -1,4 +1,9 @@
-# todo
+# A simple todo-list application
+This is a minimalist planner app. Make your plans, add them to the list and mark completed. Built with Vue 3, Pinia and Bootstrap 5 with saving in Local Storage.
+
+## Preview
+![Preview](image.jpg)
+
 
 ## Project setup
 ```
